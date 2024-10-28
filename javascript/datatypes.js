@@ -1,3 +1,3 @@
-let string1 = Boolean()
+let string1 = "true"
 console.log(typeof string1);
-console.log(string1);
+console.log(Number(string1));
